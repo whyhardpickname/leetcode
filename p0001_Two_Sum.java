@@ -1,3 +1,6 @@
+/** 
+    解法：枚举所有两个数和的组合，直到找到目标和。
+*/
 class Solution 
 {
     public int[] twoSum(int[] nums, int target) 
