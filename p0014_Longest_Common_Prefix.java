@@ -1,3 +1,6 @@
+/**
+    解法：通过比较第一个字符串和其余每个字符的公共前缀，并记录最短前缀。
+*/
 class Solution 
 {
     public String longestCommonPrefix(String[] strs) 
